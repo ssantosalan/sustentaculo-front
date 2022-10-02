@@ -20,9 +20,9 @@ h1 {
 }
 
 img {
-    height: 15rem;
-    width: 100%;
-    margin: .5rem auto 1.5rem auto;
+  height: 15rem;
+  width: 100%;
+  margin: 0.5rem auto 1.5rem auto;
 }
 
 .full-width {
@@ -30,5 +30,5 @@ img {
 }
 
 button {
-    margin-top: 1.5rem;
+  margin-top: 1.5rem;
 }
