@@ -35,6 +35,10 @@ button {
    margin-top: .5rem;
 }
 
+.btn-cor {
+   background-color: #6c09ad;
+ }
+
 p {
    margin-top: 3rem;
    opacity: .5;
