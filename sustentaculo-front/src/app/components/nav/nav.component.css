@@ -14,6 +14,10 @@ img {
    margin: .8rem auto 1rem auto;
 }
 
+.logo {
+   filter: invert(14%) sepia(45%) saturate(2511%) hue-rotate(255deg) brightness(94%) contrast(93%);
+}
+
 .sidenav a {
    color: white;
 }
