@@ -13,6 +13,11 @@ mat-form-field {
 
 button {
    width: 100%;
+   background-color: #6C09AD;
+}
+
+span {
+  color: white;
 }
 
 h1 {
@@ -22,7 +27,7 @@ h1 {
 }
 
 .edit {
-   color: rgb(0, 153, 255);
+   color: #6C09AD;
 }
 
 .delete {
