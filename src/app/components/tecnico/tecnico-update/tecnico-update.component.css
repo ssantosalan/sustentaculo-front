@@ -28,6 +28,10 @@ button {
    margin-top: .5rem;
 }
 
+.btn-cor {
+   background-color: #6C09AD;
+ }
+
 p {
    margin-top: 4rem;
    opacity: .5;
