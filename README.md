@@ -1,5 +1,18 @@
 # Sustentaculo
 
+## Members:
+
+<p>
+    <ul>
+        <li>👽 Alan Silva dos Santos</li>
+        <li>👽 Arthur Solla Gregorut Favero</li>
+        <li>👽 Cauê Batista</li>
+        <li>👽 Gustavo Idalgo</li>
+        <li>👽 Jorge luiz dos Santos Oliveira</li>
+        <li>👽 Rodrigo Assunção</li>
+    </ul>
+</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
 ## Development server
