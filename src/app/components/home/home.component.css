@@ -7,3 +7,8 @@
 img {
    height: 10rem;
 }
+
+mat-card-subtitle {
+   color: #404040;
+   font-weight: 500;  
+}
